@@ -1,7 +1,6 @@
 package com.hxs.xposedreddevil;
 
 import com.hxs.xposedreddevil.contentprovider.PropertiesUtils;
-import com.hxs.xposedreddevil.hook.LivePalyerHook;
 import com.hxs.xposedreddevil.hook.RedHook;
 import com.hxs.xposedreddevil.hook.RedHook673;
 import com.hxs.xposedreddevil.hook.RedHook703;
